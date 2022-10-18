@@ -27,4 +27,9 @@ print(len(list3))
 list1[0]=4
 print(list1)#replaces the value at index 0-1 to 4
 
-#list concatenation
+#list concatenation from Automate the Boring Stuff with Python
+print([1, 2, 3] + ['A', 'B', 'C'])
+print(['X', 'Y', 'Z'] * 3)
+spam = [1, 2, 3]
+spam = spam + ['A', 'B', 'C']
+print(spam)

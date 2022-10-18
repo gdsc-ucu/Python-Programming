@@ -32,8 +32,8 @@ else: #do not forget the colon:
 if ((name=="Ruth")or (name=="John")or (name=="Mary"))
     print(f"Hey {name}, Welcome")
 
-#if behaving like a controlled loop
+#another if statment
 count=0
 if count<5:
     print("Hello World")
-    count+=1
+    count=count+1

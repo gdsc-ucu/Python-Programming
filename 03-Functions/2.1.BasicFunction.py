@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 def hello():
     print("Hello There")
     print("My name is Jasper")

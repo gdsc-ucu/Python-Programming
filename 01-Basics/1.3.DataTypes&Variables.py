@@ -31,3 +31,5 @@ print(height) #output 12.3
 #Replication
 #can be archived by operators and strings
 print("hey"*4) #will print hey 4 times
+#the * operator can only be used with two or more integers or one string
+#you cannot perform it on strings

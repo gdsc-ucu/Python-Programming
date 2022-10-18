@@ -11,6 +11,7 @@ for i in name:
 name=str(input("Please enter your name:"))
 for i in name:
     print(i,end="") #end parameter introduced
+print()
 
 #prints your name 5 times
 #introducing the range() function

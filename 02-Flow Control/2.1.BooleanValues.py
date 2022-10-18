@@ -28,3 +28,14 @@ print(True!=True)
 print(42==42.0)
 print(42<42)
 #all will return false
+
+#Boolean Operators
+#and,or,not change the evaluation e.g
+print(True and False)
+print(False and True)
+print(True or False)
+print(False or False)
+print(not True)
+print(not not True and False or not False)
+
+#

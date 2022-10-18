@@ -33,3 +33,18 @@ print(['X', 'Y', 'Z'] * 3)
 spam = [1, 2, 3]
 spam = spam + ['A', 'B', 'C']
 print(spam)
+
+#you can also use del to remove an element from a list
+
+#sample program:
+catNames = []
+while True:
+    print('Enter the name of cat ' + str(len(catNames) + 1) +
+      ' (Or enter nothing to stop.):')
+    name = input()
+    if name == '':
+        break
+    catNames = catNames + [name] # list concatenation
+print('The cat names are:')
+for name in catNames:
+    print('  ' + name)

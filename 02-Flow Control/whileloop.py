@@ -45,3 +45,5 @@ while not name:
         if guests:
             print(f"Please plan for {guestsnumber} geusts")
 print("Done")
+
+#end of while loop class

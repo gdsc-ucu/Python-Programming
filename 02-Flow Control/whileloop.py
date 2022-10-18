@@ -19,3 +19,4 @@ while name!="your name":
 print("Thank you so much")
 
 #using break and or an if statement
+while True

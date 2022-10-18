@@ -15,3 +15,15 @@ print("Hey", "a", 'a', '12 dogs', "13" )
 #floats=float
 #strings=str
 
+#VARIABLES
+#is like a box where you can store a single value
+# nameofvariable=variable
+
+number=1 #stores the number 1 in the variable number
+print(number) #will output 1
+
+word="Animals" #stores the word "Animals" in the variable word
+print(word) #will output Animals
+
+height=12.3 #stores the decimal(float) 12.3 in the variable height
+print(height) output 12.3

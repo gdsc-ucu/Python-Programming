@@ -8,3 +8,12 @@ while count<5: #don't forget the :
              #BE CAREFUL: # +=1 is different from =+
     #alternatively
     #count=count+1
+
+#an annoying loop that asks you to enter "your name"
+name=""
+
+while name!="your name":
+    print("Please enter 'your name'")
+    name=input()
+    #alternatively name=str(input("Please enter 'your name'":)
+print("Thank you so much")

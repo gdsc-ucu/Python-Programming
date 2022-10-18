@@ -15,3 +15,30 @@ def hello(name):
 
 hello("James") #will print the body of the text with the name filled with the provided name
 hello("Moses")
+
+#absence of a value is denoted by None
+#functions like print have a return value of None
+
+#Return Values
+#usually used with if inclusive
+
+import random
+
+def get_answer(answer_number):
+    if answer_number==1:
+        return "You have the firstone"
+    if answer_number==2:
+        return "You have the secondone"
+    if answer_number==3:
+        return "You have the thirdone"
+    if answer_number==4:
+        return "You have the fourthone"
+    if answer_number==5:
+        return "You have the fifthone"
+
+number=random.randint(1,5)
+print(number)
+gotten=get_answer(number)
+print(gotten)
+#alternatively
+print(get_answer(random.randint.(1,5))

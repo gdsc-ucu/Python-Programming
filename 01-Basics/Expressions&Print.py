@@ -4,6 +4,7 @@ print("Hello World") #will output the phrase Hello World
 print("2") #will output the number 2 but as a string
 print(2) #will output the number 2 as an interger
 
+#EXPRESSIONS
 #print can also perform basic arithmetic operations(+,-,*,/) with numbers
 #[syntax-print((numberone)(+,-,*,/)(numbertwo))
 

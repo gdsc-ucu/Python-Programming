@@ -10,3 +10,9 @@ print(10%3) #returns the remainder of the division of 10 and 3 =1
 #The Integer division Operator (//)
 print(13//4) #returns the rounded down division output =3
 
+#Order of Operations-Precedence
+#In order pf precedence:
+# **,*,/,//,% to overide this, parenthesis() can be used
+
+
+

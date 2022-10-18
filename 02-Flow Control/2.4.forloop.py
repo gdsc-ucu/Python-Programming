@@ -22,5 +22,17 @@ for i in range(5):
 #increment for loop to find the sum of the first 100 numbers
 count=0
 for i in range(101):
-    count+=i
+    count+=i #
 print(f"The sum of the first 100 numbers is {count}")
+
+#more range methods
+for i in range(12,16): #from 12 to 15
+    print(i)
+
+for i in range(0,100,10): #from 0 to 99 skipping 10 number intervals
+    print(i)
+
+for i in range(5,-1,-1) #counting down from 5 to 0 with a -1 interval
+    print(i)
+
+#end of foor loop

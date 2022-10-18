@@ -17,6 +17,12 @@ last_name="Smith"
 print(first_name+last_name) # output BobSmith
 print(first_name+" "+last_name) #output Bob Smith
 
+age=21
+print(first_name+age) #will output a type error so we concantenate
+
+print(first_name+str(age)) #output Bob21
+print("Hey my name is "+first_name+" and I am "+age+" years old.") #output: Hey my name is Bob and I am 21 years old.
+
 
 
 

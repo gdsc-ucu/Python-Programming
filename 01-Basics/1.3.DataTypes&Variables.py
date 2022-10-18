@@ -9,3 +9,9 @@ print(-1.25,-1.0,-2.456,0.5,1.25)
 #Strings: characters, text
 #either "" or '' can be used
 print("Hey", "a", 'a', '12 dogs', "13" )
+
+#summary
+#intergers=int
+#floats=float
+#strings=str
+

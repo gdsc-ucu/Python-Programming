@@ -28,6 +28,10 @@ print("Hey "+first_name)
 print(len(first_name)) #output 3
 
 #you can concatenate to anything using str(), int() and float()
+variable_1=str(29)
+variable_2=int('-99')
+variable_3=float(10)
+print(variable_1+","+variable_2+","+variable_3)
 
 
 

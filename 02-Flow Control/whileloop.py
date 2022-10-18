@@ -17,3 +17,5 @@ while name!="your name":
     name=input()
     #alternatively name=str(input("Please enter 'your name'":)
 print("Thank you so much")
+
+#using break and or an if statement

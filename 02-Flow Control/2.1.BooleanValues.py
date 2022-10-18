@@ -38,4 +38,6 @@ print(False or False)
 print(not True)
 print(not not True and False or not False)
 
-#
+#mixing comparison operators with booleans creates something interesting
+print(4<5 and 5>6)
+print(1==2 and 3>=5 or not True and False and 3>=-5)

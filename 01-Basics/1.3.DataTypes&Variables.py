@@ -27,3 +27,6 @@ print(word) #will output Animals
 
 height=12.3 #stores the decimal(float) 12.3 in the variable height
 print(height) #output 12.3
+
+#Replication
+#can be archived by operators and strings

@@ -12,3 +12,5 @@ second_name=str(input())
 print("Very nice to meet you "+first_name+" "+second_name)
 #alternatively
 #print(f"Very nice to meet you {first_name} {second_name}")
+
+print("As a a funfact, the length of your name is "+len(first_name+second_name))

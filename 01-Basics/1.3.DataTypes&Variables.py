@@ -26,4 +26,4 @@ word="Animals" #stores the word "Animals" in the variable word
 print(word) #will output Animals
 
 height=12.3 #stores the decimal(float) 12.3 in the variable height
-print(height) output 12.3
+print(height) #output 12.3

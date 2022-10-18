@@ -16,5 +16,5 @@ print()
 #prints your name 5 times
 #introducing the range() function
 name=str(input("Please enter your name:"))
-for name in range(5):
-    print(name)
+for i in range(5):
+    print(f"{i}.{name}")

@@ -33,3 +33,15 @@ while True:
     if password!="ashaba":
         break
 print("Access Granted")
+
+#Remember Truthy and Falsey values
+#all empty and 0 values are false
+
+name=''
+while not name:
+    name=str(input("Please enter your name:"))
+    if name:
+        guestsnumber=int(input("Please enter number of guests:"))
+        if guests:
+            print(f"Please plan for {guestsnumber} geusts")
+print("Done")

@@ -23,3 +23,13 @@ while True:
     if name=="your name":
         break
 print("Thank you so much")
+
+#using continue
+while True:
+    name=str(input("Please enter your name:"))
+    if name!="Jasper":
+        continue
+    password=str(input("Please enter your password:"))
+    if password!="Ashaba"
+        break
+print("Access Granted")

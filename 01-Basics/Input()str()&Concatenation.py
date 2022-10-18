@@ -23,6 +23,12 @@ print(first_name+age) #will output a type error so we concantenate
 print(first_name+str(age)) #output Bob21
 print("Hey my name is "+first_name+" and I am "+age+" years old.") #output: Hey my name is Bob and I am 21 years old.
 
+#the len() function: evaluates to the interger value of the number of characters in that string
+print("Hey "+first_name)
+print(len(first_name)) #output 3
+
+#you can concatenate to anything using str(), int() and float()
+
 
 
 

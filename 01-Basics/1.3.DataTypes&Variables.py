@@ -30,3 +30,4 @@ print(height) #output 12.3
 
 #Replication
 #can be archived by operators and strings
+print(hey*4) #will print hey 4 times

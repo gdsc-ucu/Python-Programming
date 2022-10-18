@@ -23,4 +23,8 @@ print(100>3)
 print(1<=2)
 print(45>=23)
 #all return true, now try to reverse the numbers and observe what you get
-
+print(42=='42')
+print(True!=True)
+print(42==42.0)
+print(42<42)
+#all will return false

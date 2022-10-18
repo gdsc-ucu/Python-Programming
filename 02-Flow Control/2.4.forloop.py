@@ -35,4 +35,4 @@ for i in range(0,100,10): #from 0 to 99 skipping 10 number intervals
 for i in range(5,-1,-1) #counting down from 5 to 0 with a -1 interval
     print(i)
 
-#end of foor loop
+#end of for loop

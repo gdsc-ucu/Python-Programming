@@ -11,7 +11,6 @@ while count<5: #don't forget the :
 
 #an annoying loop that asks you to enter "your name"
 name=""
-
 while name!="your name":
     print("Please enter 'your name'")
     name=input()
@@ -19,4 +18,8 @@ while name!="your name":
 print("Thank you so much")
 
 #using break and or an if statement
-while True
+while True:
+    name=str(input("Please enter 'your name':"))
+    if name=="your name":
+        break
+print("Thank you so much")

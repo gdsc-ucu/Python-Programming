@@ -17,4 +17,10 @@ print()
 #introducing the range() function
 name=str(input("Please enter your name:"))
 for i in range(5):
-    print(f"{i}.{name}")
+    print(f"{i}.{name}") #i indicates the number of times name is the variable
+
+#increment for loop to find the sum of the first 100 numbers
+count=0
+for i in range(101):
+    count+=i
+print(f"The sum of the first 100 numbers is {count}")

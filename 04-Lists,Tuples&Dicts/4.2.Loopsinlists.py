@@ -6,8 +6,8 @@ print("*****************")
 
 #does the same thing
 for i in range(len(fruits)):
-    print (fruits[i])
+    print(fruits[i])
 print("#################")
 
 for i in range(len(fruits)):
-    print(f"Index{str(i)} in fruits is {fruits[i]}")
+    print(f"Index_{str(i)} in fruits is {fruits[i]}")

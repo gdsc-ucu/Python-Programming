@@ -32,7 +32,7 @@ while True:
     password=str(input("Please enter your password:"))
     if password=="ashaba":
         break
-print("Access Granted")
+print("Access Granted to user")
 
 #Remember Truthy and Falsey values
 #all empty and 0 values are false

@@ -11,3 +11,4 @@ print("#################")
 
 for i in range(len(fruits)):
     print(f"Index_{str(i)} in fruits is {fruits[i]}")
+

@@ -30,7 +30,7 @@ while True:
     if name!="Jasper":
         continue
     password=str(input("Please enter your password:"))
-    if password!="ashaba":
+    if password=="ashaba":
         break
 print("Access Granted")
 

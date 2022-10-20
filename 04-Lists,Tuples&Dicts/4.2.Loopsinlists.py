@@ -9,6 +9,7 @@ for i in range(len(fruits)):
     print(fruits[i])
 print("#################")
 
+#prints with the index
 for i in range(len(fruits)):
     print(f"Index_{str(i)} in fruits is {fruits[i]}")
 

@@ -52,6 +52,7 @@ i = 1
 #end is 6
 while i < 6:
   print(i)
+  #when it reaches 3 it will stop
   if i == 3:
     break
   i += 1

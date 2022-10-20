@@ -2,7 +2,7 @@ fruits=["oranges","mangoes","apples","pawpaws","watermelon"]
 #prints all the items in the list
 for i in fruits:
     print(i)
-#for the sake of separ
+#for the sake of separation
 print("*****************")
 
 #does the same thing

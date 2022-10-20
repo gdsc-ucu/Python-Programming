@@ -49,6 +49,7 @@ print("Done")
 #extra while loops
 #inintialize the beginning with one
 i = 1
+#end is 6
 while i < 6:
   print(i)
   if i == 3:

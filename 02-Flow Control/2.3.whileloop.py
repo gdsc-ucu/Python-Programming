@@ -47,6 +47,7 @@ while not name:
 print("Done")
 
 #extra while loops
+#inintialize the beginning with one
 i = 1
 while i < 6:
   print(i)

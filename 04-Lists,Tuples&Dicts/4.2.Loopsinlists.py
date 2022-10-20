@@ -11,5 +11,5 @@ print("#################")
 
 #prints with the index
 for i in range(len(fruits)):
-    print(f"Index_{str(i)} in fruits is {fruits[i]}")
+    print(f"Index-{str(i)} in fruits is {fruits[i]}")
 

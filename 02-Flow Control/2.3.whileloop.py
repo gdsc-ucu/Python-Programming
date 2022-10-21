@@ -44,7 +44,7 @@ while not name:
         guestsnumber=int(input("Please enter number of guests:"))
         if guests:
             print(f"Please plan for {guestsnumber} geusts")
-print("Done")
+print("Done with the project")
 
 #extra while loops
 #inintialize the beginning with one

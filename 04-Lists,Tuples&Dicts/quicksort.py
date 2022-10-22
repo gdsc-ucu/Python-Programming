@@ -52,3 +52,32 @@ quickSort(data, 0, size - 1)
 
 print('Sorted Array in Ascending Order:')
 print(data)
+
+''' This QuickSort requires O(Log n) auxiliary space in
+   worst case. '''
+
+
+def quickSort(arr, low, high)
+  {
+
+
+while (low < high):
+  ''' pi is partitioning index, arr[p] is now
+     at right place '''
+  pi = partition(arr, low, high);
+
+  # If left part is smaller, then recur for left
+  # part and handle right part iteratively
+  if (pi - low < high - pi):
+    quickSort(arr, low, pi - 1);
+    low = pi + 1;
+
+  # Else recur for right part
+  else:
+    quickSort(arr, pi + 1, high);
+    high = pi - 1;
+
+# See below link for complete running code
+# https:#ide.geeksforgeeks.org/LHxwPk
+
+# This code is contributed by gauravrajput1

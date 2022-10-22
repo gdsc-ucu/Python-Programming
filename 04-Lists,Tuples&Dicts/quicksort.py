@@ -53,7 +53,7 @@ quickSort(data, 0, size - 1)
 print('Sorted Array in Ascending Order:')
 print(data)
 
-#optimisation of the
+#optimisation of the quick sort
 ''' This QuickSort requires O(Log n) auxiliary space in
    worst case. '''
 

@@ -6,7 +6,7 @@ def partition(array, low, high):
   # choose the rightmost element as pivot
   pivot = array[high]
 
-  # pointer for greater element
+  # pointer for greater element in the list
   i = low - 1
 
   # traverse through all elements

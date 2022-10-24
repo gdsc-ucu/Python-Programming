@@ -38,3 +38,21 @@ print(list2)
 #removes the item at the first index
 del list2[1]
 print(list2)
+
+#using the sort() method
+list_of_numbers=[1,2,4,6,8,7,56,34,67,89,23,56,47,90]
+print(list_of_numbers)
+list_of_numbers.sort()
+print(list_of_numbers)
+
+list_of_alphabets=['a','b','c','A','B','C']
+print(list_of_alphabets)
+list_of_alphabets.sort()
+print(list_of_alphabets)
+#if you intend to start with small letters
+#cannot sort numbers and strings together
+
+#using reverse() in python
+names=["hately",'lovely','fondly']
+print(names)
+names.reverse()

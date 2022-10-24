@@ -50,6 +50,8 @@ print(list_of_alphabets)
 list_of_alphabets.sort()
 print(list_of_alphabets)
 #if you intend to start with small letters
+list_of_alphabets.sort(key=str.lower)
+print(list_of_alphabets)
 #cannot sort numbers and strings together
 
 #using reverse() in python

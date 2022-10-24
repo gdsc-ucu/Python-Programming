@@ -26,3 +26,10 @@ student=['age','height','name','class']
 '121cm'=student[1]
 'Dondox Krout'=student[2]
 'First year'=student[3]
+print(student)
+#to be revisted
+
+21,'121cm','Dondox Krout','First Year'= student
+
+#does the same thing
+#however length of the variables must be equal to the length of the values

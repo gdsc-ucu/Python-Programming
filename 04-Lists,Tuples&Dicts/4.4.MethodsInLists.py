@@ -58,3 +58,4 @@ print(list_of_alphabets)
 names=["hately",'lovely','fondly']
 print(names)
 names.reverse()
+print(names)

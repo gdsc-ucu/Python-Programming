@@ -17,3 +17,18 @@ print(list1.index("james"))
 
 #adding values to lists is called appending or inserting
 #how append works:
+list2=['cats','dogs','mice']
+list2.append('birds')
+print(list2)
+#will add birds to the list
+
+#how insert works
+list2.insert(2,'birds')
+print(list2)
+
+#removing values to lists is called remove()
+list2.remove('birds')
+print(list2)
+#will remove the first instance of birds
+list2.remove('birds')
+print(list2)

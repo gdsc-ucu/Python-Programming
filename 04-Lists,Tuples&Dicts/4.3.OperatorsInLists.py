@@ -33,3 +33,4 @@ print(student)
 
 #does the same thing
 #however length of the variables must be equal to the length of the values
+

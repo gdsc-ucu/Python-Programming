@@ -11,3 +11,9 @@ print(len(tuple))
 print(type("hello",))
 print(type("hello"))
 #to be revisted
+
+#Change from list to tuple- tuple()
+#change from tuple to list- list()
+
+my_list=list((tuple))
+print(my_list)

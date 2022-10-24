@@ -33,3 +33,8 @@ print(list2)
 list2.remove('birds')
 print(list2)
 #remove the second instance
+#can also use the del function
+
+#removes the item at the first index
+del list2[1]
+print(list2)

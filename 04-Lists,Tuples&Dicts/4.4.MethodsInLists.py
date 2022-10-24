@@ -32,3 +32,4 @@ print(list2)
 #will remove the first instance of birds
 list2.remove('birds')
 print(list2)
+#remove the second instance

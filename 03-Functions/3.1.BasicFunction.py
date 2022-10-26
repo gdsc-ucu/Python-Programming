@@ -41,4 +41,4 @@ print(number)
 gotten=get_answer(number)
 print(gotten)
 #alternatively
-print(get_answer(random.randint.(1,5)))
+print(get_answer(random.randint(1,5)))

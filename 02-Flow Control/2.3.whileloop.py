@@ -37,6 +37,7 @@ print("Access Granted to user")
 #Remember Truthy and Falsey values
 #all empty and 0 values are false
 
+#visit the while statement while variable:
 name=''
 while not name:
     name=str(input("Please enter your name:"))

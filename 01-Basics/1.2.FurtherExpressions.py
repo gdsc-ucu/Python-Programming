@@ -23,15 +23,20 @@ print((5-1)*((7+1)/(3-1))) #=16.0
 print(5-1*7+1/3-1) #=-2.666666666666667
 
 
-mine=1 is not 2
-print(mine)
+# name="Gordon Kasagga"
 
-name="Gordon Kasagga"
+# for i in range(20):
+#     print(i+1,":",name)
+    
 
-check="z" in name
+def repeat(number):
+    #number=int(input("How many times should this repeat:"))
+    name=input("Please enter your name:")
+    for i in range(number):
+        print(i+1,":",name)
 
-print(check)
-
-
+number=int(input("How many times should this repeat:"))
+repeat(number)
+  
 
 

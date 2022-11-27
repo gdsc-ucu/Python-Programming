@@ -38,5 +38,12 @@ def repeat(number):
 number=int(input("How many times should this repeat:"))
 repeat(number)
   
+def addition(int(number1),int(number2)):
+    add=number1+number2
+    return add
+
+number1=int(input("Enter the first number:"))
+number2=int(input("Enter the second number:"))
+addition(number1,number2)   
 
 

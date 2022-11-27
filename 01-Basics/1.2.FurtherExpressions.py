@@ -23,5 +23,15 @@ print((5-1)*((7+1)/(3-1))) #=16.0
 print(5-1*7+1/3-1) #=-2.666666666666667
 
 
+mine=1 is not 2
+print(mine)
+
+name="Gordon Kasagga"
+
+check="z" in name
+
+print(check)
+
+
 
 

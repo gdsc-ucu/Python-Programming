@@ -1,5 +1,5 @@
 #you can use the in and not in operators in lists for verification
-my_list=['dog','cat','fish','monkey']
+my_list=['dog','cat','fish','monkey','giraffe']
 
 print('lion' in my_list)
 #will putput a boolean statement verifying if it is there or not

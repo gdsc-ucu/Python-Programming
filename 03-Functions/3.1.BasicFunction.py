@@ -7,6 +7,8 @@ def hello():
     print("Your trainer for this session")
 #calling the function
 hello()
+#calling the function again
+hello()
 
 #function with parameters
 def hello(name):

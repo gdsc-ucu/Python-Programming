@@ -1,5 +1,5 @@
 # Note: All string methods returns new values. They do not change the original string.
-#
+###
 # Method	Description
 # capitalize()	Converts the first character to upper case
 # casefold()	Converts string into lower case

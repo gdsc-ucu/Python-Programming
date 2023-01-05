@@ -27,7 +27,7 @@ print(42=='42')
 print(True!=True)
 print(42==42.0)
 print(42<42)
-#all will return false
+#all will return false statement
 
 #Boolean Operators
 #and,or,not change the evaluation e.g

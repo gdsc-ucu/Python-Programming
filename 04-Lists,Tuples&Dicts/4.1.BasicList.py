@@ -1,5 +1,5 @@
 #is a value that contains multiple values in an ordered sequence
-list1=[1,2,3]
+list1=[1,2,3,4]
 list2=['cat','bat','rat','elephant']
 list3=[12,45,65,78,98,607,43]
 print(list1)

@@ -29,7 +29,7 @@ else: #do not forget the colon:
     print("Name is not registered")
 
 #alternatively
-if ((name=="Ruth") or (name=="John")or (name=="Mary"))
+if ((name=="Ruth") or (name=="John") or (name=="Mary"))
     print(f"Hey {name}, Welcome")
 
 #another if statment

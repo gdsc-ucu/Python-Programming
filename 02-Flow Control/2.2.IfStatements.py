@@ -10,7 +10,7 @@ if name=="Ruth": #don;t forget the colon
 #else statements
 #Can be optionally following an if statement, if the condition is False, it is executed
 if name=="Ruth":
-    print("Hey Ruth, welcome")
+    print("Hey Ruth , welcome")
 else: #do not forget the colon:
     print("Name is not registered")
 

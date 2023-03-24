@@ -1,6 +1,6 @@
 import nltk
 from nltk.chat.util import Chat, reflections
-
+##importing the needed libraries
 pairs = [
     [
         r"my name is (.*)",
